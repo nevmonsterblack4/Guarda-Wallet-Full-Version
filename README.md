@@ -245,3 +245,6 @@ This repository serves as the official landing page for Guarda Wallet. The softw
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Guarda Wallet today!**
+
+---
+**Last updated:** 2026-09-10 19:19:51 UTC
